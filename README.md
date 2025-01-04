@@ -1,1 +1,1 @@
-![ICARO](Data-Analytics-Course/a.jpg)
+![ICARO](a.jpg)
